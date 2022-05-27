@@ -76,4 +76,7 @@ async function renombrar(rutaVieja, rutaNueva){
 }
 renombrar();
 
+
+array de objetos en clase: jueguetes :["huseo", "papel", "pelota"]
+
  */

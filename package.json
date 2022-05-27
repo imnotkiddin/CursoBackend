@@ -1,0 +1,20 @@
+{
+  "name": "cursobackend",
+  "version": "1.0.0",
+  "description": "Entregas del curso de backend",
+  "main": "clase1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imnotkiddin/CursoBackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imnotkiddin/CursoBackend/issues"
+  },
+  "homepage": "https://github.com/imnotkiddin/CursoBackend#readme"
+}
