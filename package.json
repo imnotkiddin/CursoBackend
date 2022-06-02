@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Entregas del curso de backend",
   "main": "clase1.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

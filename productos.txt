@@ -1,0 +1,3 @@
+{"nombre":"Fanta","precio":10,"img":"fanta.jpg"}
+{"nombre":"Coca Cola","precio":10,"img":"coca.jpg"}
+{"nombre":"Sprite","precio":10,"img":"sprite.jpg"}
