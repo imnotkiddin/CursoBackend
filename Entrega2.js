@@ -15,7 +15,7 @@ class Contenedor {
         JSON.stringify(objeto) + "\n"
       );
       let objid = 0;
-      const sumId = objeto.id === undefined ? objid + 1 : objeto.id;
+      const sumId = objeto.id > id ? (objid = id + 1) : (objid = objeto.id + 1);
     } catch (error) {
       console.log(error);
     }
